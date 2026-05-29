@@ -34,5 +34,5 @@ These models solve the common problem of mounting smart switch controllers direc
 ## 🖨️ 3D Printing Recommendations
 
 * **Orientation:** Print face-down on a textured print bed. This yields a premium finish for the front face.
-* **Supports:** **Not needed.** Due to the face-down printing orientation, the internal cavities will bridge successfully without requiring support material.
+* **Supports:** **Not needed.** Due to the face-down printing orientation, supports are not needed.
 * **Material:** These models have been successfully printed using **PLA Tough+**, but other materials (like standard PLA, PETG, or ASA) may also work well depending on your environment.
