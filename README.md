@@ -2,7 +2,12 @@
 
 A collection of parametric 3D-printable wall plates and brackets designed in OpenSCAD to integrate smart home controllers (like the Philips Hue Tap Dial) with standard North American light switches (Decora, Lutron Aurora, etc.).
 
-These models solve the common problem of mounting smart switch controllers directly over existing electrical boxes, or combining smart buttons with traditional switches in a clean, unified multi-gang faceplate.
+These models solve the common problem of mounting smart switch controllers directly over existing electrical boxes, or combining smart buttons with traditional switches in a clean, unified multi-gang faceplate. 
+
+These models allow smart switches to be mounted directly over existing faceplates without removing them for an easy, renter-friendly solution. 
+*Note: All plates will require longer standard mounting screws to secure them to the electrical box.*
+
+**Lutron Aurora Bracket:** Securing the Lutron Aurora bracket requires an **M3 screw** and an **M3 hex nut**.
 
 ---
 
